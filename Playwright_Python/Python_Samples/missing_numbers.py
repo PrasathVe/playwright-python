@@ -10,4 +10,3 @@ def find_missing_num(nums):
 nums = [1,2,3,5,6]
 missing_nums = find_missing_num(nums)
 print(f"Missing Number is: {missing_nums}")
-
